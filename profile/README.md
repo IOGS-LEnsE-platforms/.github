@@ -1,1 +1,3 @@
-# LEnsE - Platforms
+# LEnsE - Pedagogical and Technical Platforms
+
+
